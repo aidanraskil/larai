@@ -5,7 +5,9 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="card">
-                <h1>Selamat Datang Ke Larai</h1>
+                <div class="card-body">
+                    <h1>Welcome To Larai</h1>
+                </div>
             </div>
         </div>
     </div>
