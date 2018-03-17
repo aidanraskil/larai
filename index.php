@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Assalamualaikum</h1>
+		<h1>Apa Khabar</h1>
 		<?php
 			phpinfo();
 		?>
