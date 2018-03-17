@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div class="container">
-		<h1>Apa Khabar</h1>
+		<h1 class="text-center">Apa Khabar</h1>
 		<?php
 			phpinfo();
 		?>
