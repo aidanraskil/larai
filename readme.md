@@ -1,5 +1,8 @@
 [![Build Status](https://travis-ci.org/aidanraskil/larai.svg?branch=master)](https://travis-ci.org/aidanraskil/larai)
-<a href="https://packagist.org/packages/aidanraskil/larai"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
+[![Total Downloads](https://poser.pugx.org/aidanraskil/larai/downloads)](https://packagist.org/packages/aidanraskil/larai)
+[![Latest Stable Version](https://poser.pugx.org/aidanraskil/larai/v/stable)](https://packagist.org/packages/aidanraskil/larai)
+[![License](https://poser.pugx.org/aidanraskil/larai/license)](https://packagist.org/packages/aidanraskil/larai)
+
 # PPA1M Larai
 
 ## Pengenalan
