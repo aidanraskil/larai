@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <div class="card">
                 <div class="card-body">
-                    <h1>Welcome To Larai</h1>
+                    <h1>Welcome To Iskandar</h1>
                 </div>
             </div>
         </div>
