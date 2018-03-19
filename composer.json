@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "aidanraskil/larai",
+    "description": "Sistem Pengurusan Larai.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
