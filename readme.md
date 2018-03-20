@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/aidanraskil/larai.svg?branch=master)](https://travis-ci.org/aidanraskil/larai)
 [![Total Downloads](https://poser.pugx.org/aidanraskil/larai/downloads)](https://packagist.org/packages/aidanraskil/larai)
 [![Latest Stable Version](https://poser.pugx.org/aidanraskil/larai/v/stable)](https://packagist.org/packages/aidanraskil/larai)
+[![StyleCI](https://styleci.io/repos/125597716/shield?branch=master)](https://styleci.io/repos/125597716)
 [![License](https://poser.pugx.org/aidanraskil/larai/license)](https://packagist.org/packages/aidanraskil/larai)
 
 ## Pengenalan
